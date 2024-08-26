@@ -5,7 +5,7 @@
 Run the commands:
 
 ```
-git clone https://github.com/OmarAtyqy/stock-prediction-using-sentiment-analysis
+git clone https://github.com/KoussyAyoub/Stock-Sentiment-Analysis-Prediction.git
 cd stock-prediction-using-sentiment-analysis
 ```
 
